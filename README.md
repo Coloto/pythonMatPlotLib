@@ -1,2 +1,2 @@
 # pythonMatPlotLib
-Un Matplotlib muy chulo
+Se importa MatPlotLib y se crean varios graficos a partir de un csv.
